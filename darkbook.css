@@ -1,6 +1,6 @@
 @-moz-document regexp("https://www\\.facebook\\.com/(?!help).*"), regexp("https://www\\.messenger\\.com/(?!help).*") {
 /*!========================================\\
-|| darkBook - a dark facebook skin         ||  Date: 2019-03-19
+|| darkBook - a dark facebook skin         ||  Date: 2019-04-16
 ||-----------------------------------------||
 ||                                         ||  License: CC-BY-SA
 ||          by Kassh                       ||
@@ -1785,7 +1785,7 @@ a._4jy0, ._3hx- ._4a0v::after{
 div[style], ._6ff7,  ._2y8q, ._2y8s, ._6s-6 span, ._748o span, ._4g6e, ._64nm, ._4jeg, ._3-8x, ._3qnf span, ._6shh span, ._3yfy, ._2fj2, ._fd- {
    color: #e3e4e5 !important;
 }
-li[style], ._2pi2 _6ff6, ._4e36._4e36, ._7gsp, ._7gpb, ._4o-5, ._36g4, ._2pi2, ._6ff6, ._3hx- ._llj, ._fd_ {
+li[style], ._2pi2 _6ff6, ._4e36._4e36, ._7gsp, ._7gpb, ._4o-5, ._36g4, ._2pi2, ._6ff6, ._3hx- ._llj, ._fd_, ._3egs, ._674v {
     background-color: #333435 !important;
 }
 .uiInputLabelLabel span {
@@ -1800,5 +1800,4 @@ li[style], ._2pi2 _6ff6, ._4e36._4e36, ._7gsp, ._7gpb, ._4o-5, ._36g4, ._2pi2, .
 html {
     scrollbar-color: #444546 #333435 !important;
 }
-
 }
