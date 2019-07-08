@@ -1,6 +1,6 @@
 @-moz-document regexp("https://www\\.facebook\\.com/(?!help).*"), regexp("https://www\\.messenger\\.com/(?!help).*") {
 /*!========================================\\
-|| darkBook - a dark facebook skin         ||  Date: 2019-06-24
+|| darkBook - a dark facebook skin         ||  Date: 2019-07-08
 ||-----------------------------------------||
 ||                                         ||  License: CC-BY-SA
 ||          by Kassh                       ||
@@ -1728,7 +1728,7 @@ body ._5nwo, ._5hpq, ._5c6g, ._2yaq {
     background: #333435 !important;
     border-color: #444546 !important;
 }
-._449i, ._1ndf:hover, ._3-a6._65_9 ._pb2 ._2r3x ._3ekx, ._3h4y:hover, ._63eo:hover, ._63ep, ._62zy:hover, ._z4i li:hover, ._1xx7._1xx6, ._1xx7:hover, ._4ez0:hover, ._fdw:hover, ._he2:hover, ._599m:hover {
+._449i, ._1ndf:hover, ._3-a6._65_9 ._pb2 ._2r3x ._3ekx, ._3h4y:hover, ._63eo:hover, ._63ep, ._62zy:hover, ._z4i li:hover, ._1xx7._1xx6, ._1xx7:hover, ._4ez0:hover, ._fdw:hover, ._he2:hover, ._599m:hover, ._4z-m:hover {
     background: #444546 !important;
 }
 hr {
@@ -1746,7 +1746,7 @@ hr {
 ._56oy ._510g._510e {
     border-right: transparent;
 }
-._5-lm, ._3w53, ._6iiv, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6ijr, ._7gpu, ._78sr {
+._5-lm, ._3w53, ._6iiv, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6ijr, ._7gpu, ._78sr, ._3hx- ._3cpq {
     background-color: #3d3c4c !important
 }
 ._1aa6, ._69ad ._fmi, a._4jy0, ._129h{
@@ -1761,11 +1761,11 @@ hr {
 a._4jy0, ._3hx- ._4a0v::after{
     border: transparent !important;
 }
-._ih-, ._64lx._2bf7._dcs:hover ._52c6, ._64lx ._52c6:hover,._2jly, ._rzx, ._5dw9 ._45hc:hover a, ._5dw9 ._1hqh a, ._5dw9 ._45hc a {
+._ih-, ._64lx._2bf7._dcs:hover ._52c6, ._64lx ._52c6:hover,._2jly, ._rzx, ._5dw9 ._45hc:hover a, ._5dw9 ._1hqh a, ._5dw9 ._45hc a, ._gll._gll a, ._gll._gll a:hover {
     color: #9bb6df !important;
 }
-._2l1h, ._2l1j > div, ._5mem div._55he, ._3eqz ._3ekx, ._6rbc, ._6ue3, ._mb5{
-    border-color: #444546;
+._2l1h, ._2l1j > div, ._5mem div._55he, ._3eqz ._3ekx, ._6rbc, ._6ue3, ._mb5, ._1k_0::before, ._4z-m::before{
+    border-color: #444546 !important;
 }
 ._3hx- ._4tdt, ._3hx- ._6vu5 ._31o4, ._3hx- ._1nc7:not(:last-of-type) ._5z-5, ._3hx- ._1nc6:not(:last-of-type) ._5z-5, ._3hx- ._3erg:not(:last-of-type) ._5z-5, ._3hx- ._6vu5 ._5w-5, ._3hx- ._4tdt ._4tdx, ._1nc7 ._3e7u ._1ekr, ._3hx- ._5z-5, ._3hx- ._16ys._3e7u, ._3hx- ._16ys._3e7u, ._3hx- ._3cpq, .__6j._43kk, ._1lg-, ._2tx5, ._3hx- ._5wd4 ._59gq i.img, ._3hx- ._5wd4 ._59gq, ._3hx- ._5w0o, ._3hx- ._1aa6::after, ._3hx- ._2cnu:only-of-type ._5wdf, ._3hx- ._5wd4, ._3hx- ._llj, ._3hx- ._1nc6 ._1e-x ._n4o  {
     border-color: #333435 !important;
@@ -1773,16 +1773,16 @@ a._4jy0, ._3hx- ._4a0v::after{
 ._3hx- ._49or .__6j, ._3hx- ._324d .__6j {
     border-color: #222324 !important;
 }
-._6yyh, ._64dw, ._5yb1, ._1b6y, ._wza, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6r_e, ._6ffg, ._6s-6, textarea, .inputtext, .inputpassword, ._65nn, ._1jwd, ._1c-2, ._63ok, ._6qq5, ._4-u2, ._2yq ._4-u2::before, ._1c-2, ._ifk, ._4e36._4e36, ._1ray, ._7in5, ._4dc4, ._7gpu, ._2yq ._4-u2::before, ._4-u2, ._5811, ._4o-5, ._2yq ._4-u2::before, ._3g6f, ._34xx, ._6vhx, ._6a15, ._14x8, ._fdw:hover, ._2shf, ._5s0f, ._he2:hover, ._4b0h, ._2shb, ._2shd, ._2shi {
+._6yyh, ._64dw, ._5yb1, ._1b6y, ._wza, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6r_e, ._6ffg, ._6s-6, textarea, .inputtext, .inputpassword, ._65nn, ._1jwd, ._1c-2, ._63ok, ._6qq5, ._4-u2, ._2yq ._4-u2::before, ._1c-2, ._ifk, ._4e36._4e36, ._1ray, ._7in5, ._4dc4, ._7gpu, ._2yq ._4-u2::before, ._4-u2, ._5811, ._4o-5, ._2yq ._4-u2::before, ._3g6f, ._34xx, ._6vhx, ._6a15, ._14x8, ._fdw:hover, ._2shf, ._5s0f, ._he2:hover, ._4b0h, ._2shb, ._2shd, ._2shi, ._7vnx::before, ._23as, ._23at {
     border-color: #444546 !important;
 }
 ._129h, ._mb5:hover {
     border-color: #686564 !important;
 }
-._2-gy, ._1ia, ._2sz2, ._3hx- ._3cpq, .fbNub._50mz .fbNubFlyoutFooter::before, ._kyy, ._6yyh, ._64dw, ._5yb1, ._1py_, ._1rb6, ._3lxv, ._1jwc, ._6ani ._5eut, ._78sn, ._78sn::before, ._6gen ._6iy5, ._1vkw, ._6vhx, ._14x8, ._31qh, div[style], ._6ff7,  ._2y8q, ._2y8s, ._6s-6 span, ._748o span, ._4g6e, ._64nm, ._4jeg, ._3-8x, ._3qnf span, ._6shh span, ._3yfy, ._2fj2, ._fd-, ._6w8-, ._5dwa ._38my {
+._2-gy, ._1ia, ._2sz2, ._3hx- ._3cpq, .fbNub._50mz .fbNubFlyoutFooter::before, ._kyy, ._6yyh, ._64dw, ._5yb1, ._1py_, ._1rb6, ._3lxv, ._1jwc, ._6ani ._5eut, ._78sn, ._78sn::before, ._6gen ._6iy5, ._1vkw, ._6vhx, ._14x8, ._31qh, div[style], ._6ff7,  ._2y8q, ._2y8s, ._6s-6 span, ._748o span, ._4g6e, ._64nm, ._4jeg, ._3-8x, ._3qnf span, ._6shh span, ._3yfy, ._2fj2, ._fd-, ._6w8-, ._5dwa ._38my, ._62-0, ._62-2, ._20zb ._20zf, ._20zb ._20zf .fsm.fwn.fcg, ._20zb ._20zc, ._20zb ._20zc .fsm.fwn.fcg, ._4127, ._4127 a, ._3w8y ._4yxo, ._3kkd, ._3kke {
    color: #e3e4e5 !important;
 }
-li[style], ._2pi2 _6ff6, ._4e36._4e36, ._7gsp, ._7gpb, ._4o-5, ._36g4, ._2pi2, ._6ff6, ._3hx- ._llj, ._fd_, ._3egs, ._674v, ._3hx- ._1i6a ._3egu, ._636z, ._2she, .__6k, .__6l, .__6m, ._3hx- ._1nc6 ._1e-x ._n4o::after, ._6i_k, ._6w1i {
+li[style], ._2pi2 _6ff6, ._4e36._4e36, ._7gsp, ._7gpb, ._4o-5, ._36g4, ._2pi2, ._6ff6, ._3hx- ._llj, ._fd_, ._3egs, ._674v, ._3hx- ._1i6a ._3egu, ._636z, ._2she, .__6l, ._3hx- ._1nc6 ._1e-x ._n4o::after, ._6i_k, ._6w1i, ._7vnx, ._23as, ._23at, ._6ani ._5eut {
     background-color: #333435 !important;
 }
 .uiInputLabelLabel span {
